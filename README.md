@@ -1,32 +1,28 @@
 # Operating Systems Lab Record — VNRVJIET
 
 
-[Open Experiment 1 README](experiments/01_cpu_scheduling/README.md)
+Experiment 1 - 01_cpu_scheduling
 
 
-[Open Experiment 2 README](experiments/02_priority_round_robin/README.md)
+Experiment 2 - 02_priority_round_robin
 
 
-[Open Experiment 3 README](experiments/03_banker_scheduling_analysis/README.md)
+Experiment 3 - 03_banker_scheduling_analysis
 
 
-[Open Experiment 4 README](experiments/04_memory_allocation/README.md)
+Experiment 4 -04_memory_allocation
+
+Experiment 5 - 05_paging
 
 
-[Open Experiment 5 README](experiments/05_paging/README.md)
+Experiment 7 - 07_frame_allocation
 
 
-[Open Experiment 7 README](experiments/07_frame_allocation/README.md)
+Experiment 8 - 08_disk_scheduling
 
 
-[Open Experiment 8 README](experiments/08_disk_scheduling/README.md)
+Experiment 9 - 09_disk_scheduling
 
 
-[Open Experiment 9 README](experiments/09_disk_scheduling/README.md)
-
-
-
-- [`os_record.pdf`](record/os_record.pdf)
-- [`os_record.docx`](record/os_record.docx)
 
 
